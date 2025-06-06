@@ -1,0 +1,21 @@
+{
+  "name": "getpending",
+  "version": "1.0.0",
+  "main": "getPendingTrx.js",
+  "scripts": {
+    "test-base": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ethers": "^6.14.3",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.1.1"
+  }
+}
